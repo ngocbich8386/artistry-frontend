@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Lato');
+
+:root {
+  --lightblue: #EDEDED;
+  --gray1: #A1E1F4;
+  --big: 'Abril Fatface', serif;
+  --body1: 'Lato', sans-serif;
+  --brown: #8B4513;
+  --background-2: #F5F5F5;
+  --gray: #808080;
+  --light: #D3D3D3;
+  --variant: #EAEAEA;
+}
+
+
+.mytop {
+  text-align: center;
+  margin: 50px 0;
+}
+
+.mytop h1 {
+  font-family: var(--big);
+  color: #444;  /* Thay đổi màu để rõ hơn */
+  font-size: 10em;  /* Tăng kích thước để rõ nét hơn */
+  text-shadow: 2px 2px var(--variant), -2px -2px var(--variant);
+  text-align: center;
+}
+
+.mytop h3 {
+  font-family: var(--body1);
+  font-size: 2em;
+  text-transform: uppercase;
+  color: var(--brown);
+  margin-top: -20px;
+  margin-left: 500px;
+  font-weight: 900;
+}
+
+.bottom {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.bottom p {
+  font-family: var(--body1);
+  color: var(--brown);
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.buttons {
+  display: inline-block;
+}
+
+.page-not-found-button {
+  background-color: var(--lightblue);
+  padding: 15px 20px;
+  margin: 5px;
+  color: var(--brown);
+  font-family: var(--body1);
+  text-transform: uppercase;
+  font-size: 0.8em;
+  letter-spacing: 1px;
+  border: 0;
+  cursor: pointer;
+}
+
+.page-not-found-button:hover {
+  background-color: var(--gray);
+  transition: all 0.4s ease-out;
+}
+
+/* Game Container */
+.game-container {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  height: 200px;
+  overflow: hidden;
+  margin-left: 320px;
+}
+
+/* Ground */
+#ground {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 5px;
+  background-color: #000;
+}
+
+/* Dino */
+#dino {
+  position: absolute;
+  bottom: 5px;
+  left: 50px;
+  width: 40px;
+  height: 40px;
+  background-color: #333;
+  transition: bottom 0.3s;
+}
+
+.jump {
+  animation: jump 0.5s ease-out;
+}
+
+@keyframes jump {
+  0% {
+    bottom: 5px;
+  }
+  50% {
+    bottom: 80px;
+  }
+  100% {
+    bottom: 5px;
+  }
+}
+
+/* Cactus */
+#cactus {
+  position: absolute;
+  bottom: 5px;
+  right: -50px;
+  width: 20px;
+  height: 40px;
+  background-color: green;
+  animation: cactus-move 3s linear infinite;
+}
+
+@keyframes cactus-move {
+  0% {
+    right: -50px;
+  }
+  100% {
+    right: 100%;
+  }
+}

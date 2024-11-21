@@ -1,0 +1,232 @@
+:root {
+    --primary-color: #f5b942;
+    --text-color: #333;
+    --bg-color: #ffffff;
+    --blue-bg: #0a4c85;
+    --input-border-color: #d1d1d1;
+}
+
+.hi-register-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: var(--blue-bg);
+    padding: 1rem;
+}
+
+.hi-register-form {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    width: 40%;
+    background-color: var(--bg-color);
+    border-radius: 1rem;
+    padding: 1.25rem;
+    box-shadow: 0 0 0.625rem rgba(0, 0, 0, 0.1);
+    max-height: 100vh;
+    box-sizing: border-box; 
+}
+
+.hi-register-header {
+    text-align: center;
+    margin-bottom: 20px; 
+}
+
+.hi-register-header h2 {
+    font-weight: bold;
+    color: var(--text-color);
+    font-size: 1.7rem;
+    margin-bottom: 0.5rem;
+}
+
+.hi-register-header p {
+    color: var(--primary-color);
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
+
+.hi-register-form .form-label {
+    font-weight: bold;
+    color: var(--text-color);
+    font-size: 0.9rem;
+}
+
+.hi-input-field {
+    font-size: 1rem;
+    padding: 0.3125rem;
+    border: 1px solid var(--input-border-color);
+    border-radius: 0.25rem;
+    margin-bottom: 0.625rem;
+    width: 100%; 
+    box-sizing: border-box; 
+    max-width: 100%; 
+}
+
+.hi-input-field:focus {
+    border-color: var(--primary-color);
+    outline: none;
+}
+
+.hi-short-input {
+    width: calc(33.33% - 2rem); 
+    max-width: 100%; 
+    box-sizing: border-box;
+}
+
+.my-short-input {
+    max-width: 50%; 
+    border: 1px solid var(--primary-color); 
+    border-radius: 0.25rem; 
+    padding: 0.3125rem;
+    box-sizing: border-box; 
+}
+
+
+.hi-register-button {
+    width: 50%; 
+    background-color: var(--primary-color);
+    color: #fff;
+    border: none;
+    padding: 0.5rem;
+    font-weight: bold;
+    margin: 1rem 7rem 0rem;
+ 
+}
+
+
+.hi-register-button:hover {
+    background-color: #e5a335;
+    transition: background-color 0.3s;
+}
+
+.hi-register-footer {
+    text-align: center;
+    margin-top: 0.625rem;
+    color: var(--text-color);
+    font-size: 0.85rem;
+}
+
+.hi-register-footer a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.hi-register-footer a:hover {
+    text-decoration: underline;
+}
+
+.row {
+    margin-bottom: -0.9375rem;
+}
+
+
+/* :root {
+    --primary-color: #f5b942;
+    --text-color: #333;
+    --bg-color: #fefefe;
+    --blue-bg: #0a4c85;
+    --input-border-color: #d1d1d1;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hi-register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: var(--blue-bg);
+    padding: 1rem;
+}
+
+.hi-register-form {
+    width: 420px;
+    background-color: var(--bg-color);
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-height: 90vh; 
+    margin-right: 35rem;
+}
+
+.hi-register-header {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.hi-register-header h2 {
+    font-weight: bold;
+    color: var(--text-color);
+    font-size: 1.5rem;
+    margin-bottom: 0.2rem;
+}
+
+.hi-register-header p {
+    color: #f5b942;
+    margin-top: -5px;
+    font-size: 0.85rem;
+}
+
+.hi-register-form .form-label {
+    font-weight: bold;
+    color: var(--text-color);
+    font-size: 0.85rem;
+}
+
+.hi-input-field {
+    font-size: 0.85rem;
+    padding: 5px;
+    border: 1px solid var(--input-border-color);
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.hi-short-input {
+    width: 80%; 
+}
+
+.ba {
+    width: 98%;
+}
+
+.hi-input-field:focus {
+    border-color: var(--primary-color);
+    outline: none;
+}
+
+.hi-register-button {
+    width: 100%;
+    background-color: var(--primary-color);
+    color: #fff;
+    border: none;
+    padding: 8px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.hi-register-button:hover {
+    background-color: #e5a335;
+    transition: background-color 0.3s;
+}
+
+.hi-register-footer {
+    text-align: center;
+    margin-top: 10px;
+    color: var(--text-color);
+    font-size: 0.85rem;
+}
+
+.hi-register-footer a {
+    color: #f5b942;
+    text-decoration: none;
+}
+
+.hi-register-footer a:hover {
+    text-decoration: underline;
+}
+
+.row {
+    margin-bottom: -15px;
+}
+ */

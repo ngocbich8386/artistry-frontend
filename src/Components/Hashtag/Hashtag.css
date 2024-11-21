@@ -1,0 +1,47 @@
+/* Hashtag */
+.hashtag_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Căn đều các nút */
+    margin: 1em 0.2em;
+    gap: 0.5em; /* Tạo khoảng cách giữa các nút */
+}
+
+.hashtag_container button {
+    flex: 0 1 calc(20% - 0.5em); /* Chia đều 5 nút trên mỗi hàng */
+    margin: 0; /* Loại bỏ khoảng cách thêm */
+    padding: 0.5em;
+    border-radius: 0.3125rem; /* Bo góc cho nút */
+    color: #003d71;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+}
+
+/* Hiệu ứng hover */
+.hashtag_container button:hover {
+    background-color: #fef8ec;
+    color: #fac140;
+    box-shadow: 0 0.125rem 0.3125rem rgba(0, 0, 0, 0.2);
+    font-weight: bold;
+}
+
+/* Nút hashtag đang active */
+.hashtag_container button.active {
+    background-color: #f2a6a6;
+    color: #fff;
+    box-shadow: 0 0.125rem 0.3125rem rgba(0, 0, 0, 0.2);
+}
+
+
+
+.hashtag_container button.btn-primary {
+    color: white;
+}
+
+.hashtag_container button.btn-primary:hover {
+    color: #003d71;
+}
+
+h6 b {
+    color: #003d71;
+}

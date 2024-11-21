@@ -1,0 +1,231 @@
+[{
+  "_id": {
+    "$oid": "673e66351966378bbee18901"
+  },
+  "birthDate": "2024-10-29",
+  "address": "JFKF",
+  "email": "test@mail",
+  "phone": 865024544,
+  "userName": "đào",
+  "password": "1111",
+  "createdAt": {
+    "$date": "2024-11-20T22:44:05.732Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T22:44:05.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738b57ffc8ac538e732d1cb"
+  },
+  "fullname": "Nguyễn Vũ Thúy Anh",
+  "birthDate": "10/06/2004",
+  "address": "Châu Đốc, An Giang",
+  "email": "thuyanhnguyen@gmailcom",
+  "phone": {
+    "$numberLong": "9999999991"
+  },
+  "userName": "taniuoi",
+  "password": "$2b$10$OSLZhtHDyMr6qmk2GHE8Iet6H.GDwUak/4Xx/xHF/0WjjCVwBk62W"
+},
+{
+  "_id": {
+    "$oid": "6738b57ffc8ac538e732d1cc"
+  },
+  "fullname": "Phạm Thị Trúc Đào",
+  "birthDate": "11/09/2004",
+  "address": "Tây Ninh",
+  "email": "daopham@gmailcom",
+  "phone": {
+    "$numberLong": "9999999992"
+  },
+  "userName": "daoiuoi",
+  "password": "$2b$10$OSLZhtHDyMr6qmk2GHE8Iet6H.GDwUak/4Xx/xHF/0WjjCVwBk62W"
+},
+{
+  "_id": {
+    "$oid": "6738b57ffc8ac538e732d1cd"
+  },
+  "fullname": "Phùng Ngọc Bích",
+  "birthDate": "08/03/2004",
+  "address": "Tiền Giang",
+  "email": "bichphung@gmailcom",
+  "phone": {
+    "$numberLong": "9999999993"
+  },
+  "userName": "bichiuoi",
+  "password": "$2b$10$OSLZhtHDyMr6qmk2GHE8Iet6H.GDwUak/4Xx/xHF/0WjjCVwBk62W"
+},
+{
+  "_id": {
+    "$oid": "6738b57ffc8ac538e732d1ce"
+  },
+  "fullname": "Xa Lương Lan Anh",
+  "birthDate": "09/09/2004",
+  "address": "Gia Lai",
+  "email": "anhxa@gmailcom",
+  "phone": {
+    "$numberLong": "9999999994"
+  },
+  "userName": "lanhiuoi",
+  "password": "$2b$10$OSLZhtHDyMr6qmk2GHE8Iet6H.GDwUak/4Xx/xHF/0WjjCVwBk62W"
+},
+{
+  "_id": {
+    "$oid": "6738b57ffc8ac538e732d1cf"
+  },
+  "fullname": "Lê Thị Hải Giang",
+  "birthDate": "09/04/2003",
+  "address": "Thành phố Huế",
+  "email": "giangle@gmailcom",
+  "phone": {
+    "$numberLong": "9999999995"
+  },
+  "userName": "giangiuoi",
+  "password": "$2b$10$OSLZhtHDyMr6qmk2GHE8Iet6H.GDwUak/4Xx/xHF/0WjjCVwBk62W"
+},
+{
+  "_id": {
+    "$oid": "6738b57ffc8ac538e732d1d0"
+  },
+  "fullname": "Alexander Eugenia",
+  "birthDate": "23/02/1990",
+  "address": "Thành phố Hồ Chí Minh",
+  "email": "sonle@gmailcom",
+  "phone": {
+    "$numberLong": "9999999996"
+  },
+  "userName": "letruongson",
+  "password": "$2b$10$OSLZhtHDyMr6qmk2GHE8Iet6H.GDwUak/4Xx/xHF/0WjjCVwBk62W"
+},
+{
+  "_id": {
+    "$oid": "6738b57ffc8ac538e732d1d1"
+  },
+  "fullname": "Thach Cao Son Nguyen",
+  "birthDate": "10/12/1990",
+  "address": "Thành phố Hồ Chí Minh",
+  "email": "sơnthach@gmailcom",
+  "phone": {
+    "$numberLong": "9999999997"
+  },
+  "userName": "thachcao",
+  "password": "$2b$10$OSLZhtHDyMr6qmk2GHE8Iet6H.GDwUak/4Xx/xHF/0WjjCVwBk62W"
+},
+{
+  "_id": {
+    "$oid": "6738b57ffc8ac538e732d1d2"
+  },
+  "fullname": "Jeon Jungkook",
+  "birthDate": "01/09/1997",
+  "address": "Busan",
+  "email": "jjk@gmailcom",
+  "phone": {
+    "$numberLong": "9999999999"
+  },
+  "userName": "jjkbts",
+  "password": "$2b$10$OSLZhtHDyMr6qmk2GHE8Iet6H.GDwUak/4Xx/xHF/0WjjCVwBk62W"
+},
+{
+  "_id": {
+    "$oid": "6738b57ffc8ac538e732d1d3"
+  },
+  "fullname": "Kim Taehyung",
+  "birthDate": "31/12/1994",
+  "address": "Daegu",
+  "email": "kth@gmailcom",
+  "phone": {
+    "$numberLong": "9999999910"
+  },
+  "userName": "kthbts",
+  "password": "$2b$10$OSLZhtHDyMr6qmk2GHE8Iet6H.GDwUak/4Xx/xHF/0WjjCVwBk62W"
+},
+{
+  "_id": {
+    "$oid": "6738b57ffc8ac538e732d1d4"
+  },
+  "fullname": "Akimono Tako",
+  "birthDate": "11/11/1992",
+  "address": "Thành phố Vinh",
+  "email": "akimono@gmailcom",
+  "phone": {
+    "$numberLong": "9999999911"
+  },
+  "userName": "akimono",
+  "password": "$2b$10$OSLZhtHDyMr6qmk2GHE8Iet6H.GDwUak/4Xx/xHF/0WjjCVwBk62W"
+},
+{
+  "_id": {
+    "$oid": "673cd581f28230728046dc2c"
+  },
+  "fullname": "Test DATA",
+  "birthDate": "10/06/2004",
+  "address": "Châu Đốc, An Giang",
+  "email": "testdulieu",
+  "phone": 999111225,
+  "userName": "ura ban",
+  "password": "$2b$10$m1ypRimlafE66iqs.mDgXu8WmdKhYQY1TUf1v83LpNYZVp.DoaleS",
+  "createdAt": {
+    "$date": "2024-11-19T18:14:26.072Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T18:14:26.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673db49831ef4d8e5495de39"
+  },
+  "birthDate": "22/11/2222",
+  "address": "uel",
+  "email": "testmk@gmail.com",
+  "phone": 2223333,
+  "userName": "testmk",
+  "password": "1111",
+  "createdAt": {
+    "$date": "2024-11-20T10:06:16.781Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T10:06:16.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e2b38bbc1bf8d4516705a"
+  },
+  "birthDate": "1111",
+  "address": "diachi",
+  "email": "mahoa@mail",
+  "phone": 917940026,
+  "userName": "testmahoa",
+  "password": "$2a$10$6fVPeUWbXZl4zYlVczf2bupZW4Kz/gzqijuH6HIPPuABK/MPSMD.m",
+  "createdAt": {
+    "$date": "2024-11-20T18:32:24.886Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T18:32:24.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673edbe61e084a87a87dd170"
+  },
+  "birthDate": "2024-10-28",
+  "address": "Kinh Tế Luật",
+  "email": "giang@gmail.com",
+  "phone": 865024544,
+  "userName": "mynameisyang",
+  "password": "1111",
+  "createdAt": {
+    "$date": "2024-11-21T07:06:14.215Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T07:06:14.215Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "673e162de2aaf87085794082"
+  },
+  "Name": "Tankst Kisty",
+  "Phone_number": "0912345678",
+  "Creator_TaxCode": 123456789,
+  "Citizen_ID": "123456789012",
+  "Creator_Bio": "Chào mọi người, mình là Kisty",
+  "User_ID": "6738b57ffc8ac538e732d1cb"
+},
+{
+  "_id": {
+    "$oid": "673e162de2aaf87085794083"
+  },
+  "Name": "Oleander Phạm",
+  "Phone_number": "0345678912",
+  "Creator_TaxCode": 987654321,
+  "Citizen_ID": "987654321098",
+  "Creator_Bio": "Tôi thích vẽ tranh nhưng vẽ không đẹp lắm, mong người sẽ ủng hộ",
+  "User_ID": "6738b57ffc8ac538e732d1cc"
+},
+{
+  "_id": {
+    "$oid": "673e162de2aaf87085794084"
+  },
+  "Name": "Lê Alexander",
+  "Phone_number": "0376543210",
+  "Creator_TaxCode": 112233445,
+  "Citizen_ID": "123123123123",
+  "Creator_Bio": "Chín muồi chín muồi chín muồi, muồi muồi muồi có ô",
+  "User_ID": "6738b57ffc8ac538e732d1ce"
+},
+{
+  "_id": {
+    "$oid": "673e162de2aaf87085794085"
+  },
+  "Name": "Thạch Cao",
+  "Phone_number": "0987654321",
+  "Creator_TaxCode": 445566778,
+  "Citizen_ID": "321321321321",
+  "Creator_Bio": "Ai sẽ là người solo ạ? Đó chính là tôiiiii",
+  "User_ID": "6738b57ffc8ac538e732d1cf"
+},
+{
+  "_id": {
+    "$oid": "673e162de2aaf87085794086"
+  },
+  "Name": "Tôi là Artist",
+  "Phone_number": "0934567890",
+  "Creator_TaxCode": 556677889,
+  "Citizen_ID": "456456456456",
+  "Creator_Bio": "Không biết ghi gì í?",
+  "User_ID": "6738b57ffc8ac538e732d1d0"
+}]

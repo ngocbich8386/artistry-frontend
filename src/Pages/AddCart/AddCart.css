@@ -1,0 +1,71 @@
+.my_addcart {
+    display: flex;
+    height: 100vh; /* Đảm bảo chiều cao của container bằng chiều cao của cửa sổ */
+    overflow: hidden;
+  }
+  
+.addcart_content {
+flex: 1; /* Lấy phần còn lại của không gian */
+overflow-y: auto; /* Cho phép cuộn dọc */
+height: 100vh;
+margin-left: 15rem;
+}
+
+.quantity-control {
+  display: flex;
+  flex-direction: column;
+}
+
+.quantity-group {
+  display: flex;
+  align-items: center;
+  border: 1px solid #007bff;
+  border-radius: 8px;
+  overflow: hidden;
+  width: 100px;
+}
+
+.btn-quantity {
+  background-color: #f8f9fa; /* Màu nền nhạt */
+  border: none;
+  color: #007bff; /* Màu xanh lam */
+  font-size: 18px;
+  font-weight: bold;
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.btn-quantity:hover {
+  background-color: #cfe7ff; /* Màu hover */
+}
+
+.quantity-input {
+  width: 40px;
+  text-align: center;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 6px 0;
+  outline: none;
+  background-color: #fff;
+}
+
+.quantity-input:focus {
+  outline: none;
+}
+
+.my-img {
+  width: 100%;
+  max-width: 23rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease;
+}
+
+.my-img:hover {
+  transform: scale(1.05);
+
+}
+
+

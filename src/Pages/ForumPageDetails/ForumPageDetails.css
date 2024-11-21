@@ -1,0 +1,158 @@
+.forum-page {
+    margin-left: 250px; /* Giữ khoảng trống cho sidebar */
+    flex: 1;
+    max-width: calc(100vw - 250px); /* Đảm bảo chiều rộng không vượt qua kích thước màn hình */
+    transform-origin: top left; /* Đặt điểm gốc để thu nhỏ từ góc trên */
+    background-color: #ffffff;;
+}
+
+.artistry {
+    font-size: 20px;
+    color: #02548C;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: #ccc;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.cart {
+    color: #02548C;
+    display: block;
+    float: right;
+    margin-right: 20px; /* Thêm khoảng cách bên phải */
+    margin-top: -20px; /* Giữ nguyên giá trị nếu cần */
+}
+
+.hdetails svg {
+    margin-left: 20px; /* Đẩy vào gần nội dung chính */
+    margin-top: 5px; /* Tùy chỉnh nếu cần căn giữa theo trục dọc */
+    cursor: pointer; /* Thêm hiệu ứng con trỏ nếu cần */
+}
+.chitiet{
+    text-align: center;
+    margin-top: -15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: #02548C;
+}
+.timepost{
+    color: #7D7C7E;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 11px;
+    margin-left: 35px;
+}
+.dots{
+    display: block;
+    float: right;
+    margin-right: 20px;
+    margin-top: -58px;
+}
+table{
+    border: 1px solid black;
+    border-radius: 20% black;
+    width: 600px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+tbody{
+    border-radius: 10px;
+}
+.avataruser{
+    margin-top: 10px;
+    margin-left: 35px;
+}
+.postimg{
+    text-align: center;
+    margin-left: 35px;
+    margin-top: 13px;
+}
+.titlepost{
+    margin-top: 10px;
+    margin-left: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.contentpost {
+    display: flex;
+    align-items: center; /* Đảm bảo các biểu tượng thẳng hàng */
+    gap: 10px; /* Tăng khoảng cách giữa trái tim và biểu tượng comment */
+    margin-left: 35px; /* Căn chỉnh toàn bộ container */
+    margin-top: 10px;
+
+
+}
+.icon2 {
+    display: flex; /* Xếp ngang các biểu tượng */
+    justify-content: flex-end; /* Canh phải nếu cần */
+    gap: 5px; /* Tăng khoảng cách giữa các biểu tượng (điều chỉnh giá trị cho phù hợp) */
+    margin-right: 35px; /* Căn lề từ phải vào */
+    margin-top: -20px; /* Khoảng cách phía trên */
+}
+
+.truncated-text {
+    width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.commentpost {
+    display: block;
+    margin-left: 65px; /* Đồng bộ với phần avatar bên dưới */
+    margin-top: 5px;
+}
+.commentpost input {
+    width: 90%; /* Độ rộng của ô */
+    height: 40px; /* Chiều cao của ô */
+    font-size: 14px; /* Kích thước chữ trong ô */
+    padding: 10px; /* Khoảng cách bên trong ô */
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+}
+
+.commentpost input::placeholder {
+    font-size: 12px; /* Thu nhỏ chữ placeholder */
+    color: #aaa; /* Đặt màu placeholder cho dễ nhìn */
+}
+
+.comments-section {
+    margin-left: 65px; /* Đồng bộ với phần nhập liệu */
+    margin-top: 20px;
+}
+
+.comment {
+    display: flex;
+    align-items: flex-start; 
+    margin-bottom: 15px;
+}
+
+.comment .avataruser {
+    margin-right: 10px; 
+}
+
+.comment-content {
+    background-color: #bfebff;
+    border-radius: 5px;
+    padding: 15px 20px;
+    max-width: 85%; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+}
+
+.comment-username {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #02548c; 
+}
+
+.comment-content p {
+    margin: 0;
+    font-size: 13px;
+    color: #333;
+}
+
+

@@ -1,0 +1,119 @@
+:root {
+    --primary-color: #f5b942;
+    --text-color: #333;
+    --bg-color: #fefefe;
+    --blue-bg: #02548C;
+    --input-border-color: #d1d1d1;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hi-login-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background-color: var(--blue-bg);
+    padding: 1rem;
+}
+
+.hi-login-form {
+    width: 420px;
+    background-color: var(--bg-color);
+    border-radius: 8px;
+    padding: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    min-height: 90vh; /* Đặt chiều cao tối thiểu tương tự khung đăng ký */
+    margin-left: 8rem;
+}
+
+.hi-login-header {
+    text-align: center;
+    margin-bottom: 20px; /* Tăng khoảng cách dưới tiêu đề */
+}
+
+.hi-login-header h2 {
+    font-weight: bold;
+    color: var(--text-color);
+    font-size: 1.7rem;
+    margin-bottom: 0.5rem;
+}
+
+.hi-login-header p {
+    color: var(--primary-color);
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
+
+.hi-login-form .form-label {
+    font-weight: bold;
+    color: var(--text-color);
+    font-size: 0.9rem;
+}
+
+.hi-input-field2 {
+    font-size: 1rem;
+    padding: 10px;
+    border: 1px solid var(--input-border-color);
+    border-radius: 4px;
+    margin-bottom: 20px;
+     width: 100%;
+}
+
+.hi-input-field2:focus {
+    border-color: var(--primary-color);
+    outline: none;
+}
+
+.hi-login-action {
+    text-align: center;
+    margin-top: 20px; /* Tăng khoảng cách phía trên phần hành động */
+}
+
+.hi-forgot-password {
+    color: var(--text-color);
+    font-size: 0.85rem;
+    text-align: right;
+    margin-bottom: 20px; /* Giãn khoảng cách cho "Quên mật khẩu?" */
+}
+
+.hi-login-button {
+    width: 100%;
+    background-color: var(--primary-color);
+    color: #fff;
+    border: none;
+    padding: 12px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.hi-login-button:hover {
+    background-color: #e5a335;
+    transition: background-color 0.3s;
+}
+
+.hi-login-footer {
+    text-align: center;
+    margin-top: 20px; /* Tăng khoảng cách phía trên phần chân */
+    color: var(--text-color);
+    font-size: 0.9rem;
+}
+
+.hi-login-footer a {
+    color: #f5b942;
+    text-decoration: none;
+}
+
+.hi-login-footer a:hover {
+    text-decoration: underline;
+}
+
+.hi-login-logo {
+    flex: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}

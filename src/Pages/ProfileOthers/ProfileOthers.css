@@ -1,0 +1,191 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+  }
+  
+  .cover-photo {
+    height: 180px;
+    overflow: hidden;
+  }
+  
+  .cover-photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .main-content {
+    padding: 2rem;
+    margin-top: -60px;
+    margin-left: 0;
+    background: url('../../Components/Assets/Data/bgProfileSky.jpg') no-repeat center center;
+    background-size: cover;
+  }
+  
+  .profile-header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    margin-top: -90px;
+  }
+  
+  .profile-pic {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 4px solid white;
+    object-fit: cover;
+  }
+  
+  .profile-info {
+    text-align: center;
+  }
+  
+  .profile-info .name {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .profile-info .username {
+    font-size: 16px;
+    color: #555;
+    margin: 0;
+  }
+  
+  .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 10px;
+  }
+  
+  .social-links i {
+    font-size: 24px;
+    color: #3b5998;
+    transition: color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .social-links i.fa-instagram {
+    color: #ac2bac;
+  }
+  
+  .social-links i.fa-youtube {
+    color: #ed302f;
+  }
+  
+  .social-links i:hover {
+    transform: scale(1.1);
+    color: #0d47a1;
+  }
+  
+  .tabs {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    margin: 2rem 0;
+  }
+  
+  .tabs button {
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    color: #0d47a1;
+    font-weight: bold;
+    transition: color 0.3s ease;
+    margin: 0 4rem; /* Increased spacing between buttons */
+  }
+  
+  .tabs button:first-child {
+    color: #ffffff; /* Set white color for "Thông tin" button */
+  }
+  
+  .tabs button:hover {
+    color: #555;
+  }
+  
+  .line {
+    width: 100%;
+    height: 2px;
+    background-color: #0d47a1;
+    margin-bottom: 2rem;
+  }
+  
+  /* Create Channel Section */
+  .create-channel-section {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .create-channel-btn {
+    background-color: #0d47a1;
+    color: white;
+    border: none;
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .create-channel-btn:hover {
+    background-color: #08468d;
+  }
+  
+  .info-section {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.336);
+    padding: 1rem;
+    border-radius: 8px;
+  }
+  
+  .info-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    border: 1px solid #0d47a1;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    transition: box-shadow 0.2s ease-in-out;
+  }
+  
+  .info-box:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .info-box label {
+    font-weight: bold;
+    color: #0d47a1;
+    text-transform: uppercase;
+    margin-right: 2rem;
+  }
+  
+  .box-content {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    color: #000;
+    text-align: left;
+  }
+  
+  .box-content i {
+    cursor: pointer;
+    color: #0d47a1;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .box-content i:hover {
+    transform: scale(1.2);
+  }
+  

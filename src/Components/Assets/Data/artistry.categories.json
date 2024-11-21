@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6738945cfc8ac538e732d1a8"
+  },
+  "Category_name": "Có sẵn",
+  "Category_description": "Tác phẩm đã hoàn thiện và sẵn sàng bán"
+},
+{
+  "_id": {
+    "$oid": "6738945cfc8ac538e732d1a9"
+  },
+  "Category_name": "Đặt trước",
+  "Category_description": "Tác phẩm cần một thời gian để hoàn thiện rồi mới có thể bán cho khách hàng."
+}]

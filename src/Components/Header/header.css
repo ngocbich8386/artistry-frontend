@@ -1,0 +1,129 @@
+/* Header */
+.my_header {
+    height: 10rem; 
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    display: flex;
+    font-weight: bolder;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding-left: auto; 
+    position: sticky;
+    z-index: 10;
+}
+
+.header-content {
+    text-align: center;
+    line-height: 1.2;
+}
+
+.header-content h2,
+.header-content h4 {
+    font-weight: bolder;
+    margin: 0;
+}
+
+.input-group {
+    background-color: white;
+    border: 0.0625rem solid #ccc; 
+    display: flex;
+    align-items: center;
+}
+
+.input-group .btn {
+    margin-left: 0.9375rem; 
+}
+
+.d-flex {
+    background-color: #f2a6a6;
+    border-radius: 0.625rem;
+    padding: 0.3125rem;
+    margin-top: 0.625rem;
+}
+
+.form-control {
+    border: none;
+    border-radius: 0.625rem;
+    padding: 0.3125rem;
+    width: 25rem; 
+}
+
+.btn {
+    border-radius: 0.625rem;
+}
+
+/* Container của button */
+.icon_container {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    position: absolute;
+    right: 20px; 
+    top: 10px; 
+}
+
+.icon-button {
+    position: relative; 
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 50%;
+    background-color: transparent;
+    color: #fffdfd;
+    cursor: pointer;
+    font-size: 25px;
+    transition: background-color 0.3s ease;
+}
+
+.icon-button:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.icon-button:active {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.cart-count {
+    position: absolute;
+    top: -5px; 
+    right: -5px; 
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 2px 6px;
+    font-size: 14px;
+    font-weight: bold; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 20px; 
+    height: 20px;
+}
+
+.dropdown-item {
+    color: #000; 
+    font-weight: normal; 
+    transition: background-color 0.2s, color 0.2s, font-weight 0.2s;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #007bff; 
+    color: #fff; 
+  }
+
+  .icon-button {
+    position: relative; 
+  }
+  
+  .icon-button::after {
+    display: none; 
+  }
+  
+  

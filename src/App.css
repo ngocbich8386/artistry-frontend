@@ -1,0 +1,14 @@
+.container {
+  padding: 0 !important; /* Loại bỏ padding mặc định */
+}
+
+.app-container {
+  margin: 0 auto; /* Nếu có `auto` và width cố định, sẽ căn giữa */
+  padding: 0;
+  width: 100%;
+}
+
+.content-container {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,632 @@
+[{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3d7"
+  },
+  "Artwork_name": "Thiên thần sa ngã",
+  "Unit_price": 1765000,
+  "Stock": 5,
+  "Artwork_description": "Bức tranh này mang một phong cách nghệ thuật siêu thực và huyền bí. Trong đó, hình ảnh chính là một nhân vật nữ với đôi cánh đen khổng lồ, mang dáng vẻ vừa quyền uy vừa u ám. Cô ấy đứng thẳng, ánh sáng yếu ớt chiếu lên cơ thể tạo nên vẻ bí ẩn. Trang phục bó sát đậm chất cổ điển, như hòa quyện vào bóng tối bao quanh.",
+  "Artwork_tag": [
+    "Kinh dị",
+    "Huyền bí",
+    "Cổ tích"
+  ],
+  "Artwork_image": "https://i.pinimg.com/736x/86/6c/ef/866cefbb860cb1699fc01537e4a72425.jpg",
+  "Artwork_size": [
+    "250x160",
+    "170x120"
+  ],
+  "Review": [
+    "Tôi cảm thấy rất cuốn hút, rất phù hợp với sở thích của tôi.",
+    "Gam màu này trùng hợp lại cùng gam với căn phòng của mình, mình cũng thích cái màu này nữa."
+  ],
+  "Creator_ID": "673e162de2aaf87085794082",
+  "Category_ID": "6738945cfc8ac538e732d1a8"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3d8"
+  },
+  "Artwork_name": "Kim Tae Hyung - my love",
+  "Unit_price": 2995000,
+  "Stock": 2,
+  "Artwork_description": "Lần đầu tiên tôi thử sức trải nghiệm khi vẽ thần tượng của mình! Hi vọng các bạn sẽ thích!",
+  "Artwork_tag": [
+    "Thần tượng"
+  ],
+  "Artwork_image": "https://i.pinimg.com/736x/e5/f4/3c/e5f43c6e71e4b26bc8ec4491241ee533.jpg",
+  "Artwork_size": [
+    "340x160",
+    "170x120"
+  ],
+  "Review": [
+    "AAAAAAA đẹp quá đi!!! Mình sẽ mua tặng bức thứ 2 gửi cho bạn thân của mình!",
+    "Kim Tae Hyung đẹp trai nhất hành tinh!!!",
+    "Mãi đỉnh!",
+    "Bạn giúp tôi vẽ 1 số tấm khác theo nhu cầu được không?"
+  ],
+  "Creator_ID": "673e162de2aaf87085794083",
+  "Category_ID": "6738945cfc8ac538e732d1a9"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3d9"
+  },
+  "Artwork_name": "Huyết Vũ Thám Hoa - 800 năm tư truy!",
+  "Unit_price": 224000,
+  "Stock": 3,
+  "Artwork_description": "Người con trai áo đỏ - nhân vật trong bộ truyện Thiên Quan Tứ Phúc và cũng là bộ truyện yêu thích của tôi. Nhân vật này thực sự rất đẹp, do vậy mà tôi đã vẽ rất nhiều! Nếu công việc cá nhân thuận lợi, chắc chắn tôi sẽ vẽ thêm!",
+  "Artwork_tag": [
+    "Cổ đại",
+    "Huyền bí",
+    "Thần tượng"
+  ],
+  "Artwork_image": "https://i.pinimg.com/736x/4b/1e/e1/4b1ee1138aab6c697fc476e790aa5d70.jpg",
+  "Artwork_size": [
+    "150x160",
+    "170x120"
+  ],
+  "Review": [
+    "Mình đã mua thử và treo trong phòng, rất đẹp nhé mọi người!",
+    "Art của Arrtist rất đẹp.",
+    "Tôi rất mong chờ phiên bản tranh sơn dầu!"
+  ],
+  "Creator_ID": "673e162de2aaf87085794084",
+  "Category_ID": "6738945cfc8ac538e732d1a8"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3da"
+  },
+  "Artwork_name": "Chinese Landscape",
+  "Unit_price": 1800000,
+  "Stock": 4,
+  "Artwork_description": "Vẽ tranh phong cảnh là một nghê truyền thống có từ thế kỷ thứ ba, tranh phong cảnh là một trong những thành tựu nổi bật nhất của văn hóa Trung Quốc. Những phong cách chính trong thể loại này xuất hiện từ thời nhà Nguyên và vẫn được áp dụng cho đến ngày nay.",
+  "Artwork_tag": [
+    "Phong cảnh"
+  ],
+  "Artwork_image": "https://i.pinimg.com/736x/2c/ab/78/2cab78a8830951815f5f04a433cf4a4d.jpg",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "mau dep, anh chat luong tot",
+    "tranh dep"
+  ],
+  "Creator_ID": "673e162de2aaf87085794085",
+  "Category_ID": "6738945cfc8ac538e732d1a8"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3db"
+  },
+  "Artwork_name": "Spooky Bog Creature",
+  "Unit_price": 1300000,
+  "Stock": 5,
+  "Artwork_description": "Tất cả các tác phẩm nghệ thuật được in tại nhà bằng máy in khổ lớn chuyên nghiệp.Mặt hàng này được vận chuyển trong một túi bảo vệ trong suốt và bưu phẩm phẳng chắc chắn.",
+  "Artwork_tag": [
+    "Kinh dị"
+  ],
+  "Artwork_image": "https://i.etsystatic.com/18841502/r/il/a3b941/2752500921/il_1140xN.2752500921_nlka.jpg",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "Tranh dep, van chuyen tot",
+    "Tranh nhin that, van chuyen tot"
+  ],
+  "Creator_ID": "673e162de2aaf87085794083",
+  "Category_ID": "6738945cfc8ac538e732d1a9"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3dc"
+  },
+  "Artwork_name": "Starry Night Art",
+  "Unit_price": 2000000,
+  "Stock": 2,
+  "Artwork_description": "Đêm đầy sao (tiếng Hà Lan: De sterrennacht) là một bức tranh của họa sĩ hậu ấn tượng người Hà Lan Vincent van Gogh. Được vẽ vào tháng 6 năm 1889, bức tranh miêu tả khung cảnh bên ngoài cửa sổ phòng bệnh của ông ở Saint-Rémy-de-Provence, miền Nam nước Pháp về đêm, mặc dù ông đã vẽ bức tranh vào ban ngày qua trí nhớ.",
+  "Artwork_tag": [
+    "Trừu tượng"
+  ],
+  "Artwork_image": "https://mastermedia.vn/wp-content/uploads/2023/05/art-va-design-1.jpg",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "Tranh dep, van chuyen tot",
+    "tranh dep",
+    "giao dung san pham"
+  ],
+  "Creator_ID": "673e162de2aaf87085794082",
+  "Category_ID": "6738945cfc8ac538e732d1a8"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3dd"
+  },
+  "Artwork_name": "Fairy Wings",
+  "Unit_price": 500000,
+  "Stock": 5,
+  "Artwork_description": "Đôi cánh thần tiên",
+  "Artwork_tag": [
+    "Cổ tích",
+    "Dễ thương"
+  ],
+  "Artwork_image": "https://img.freepik.com/free-photo/enchanting-watercolor-fairy-illustration_23-2151557279.jpg?t=st=1731841498~exp=1731845098~hmac=c954f3ad661027922c4cfebd4be2ef4038716adae8cb113282a297f3a0dfa09d&w=740",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "tac pham de thuong",
+    "tranh dep va xin"
+  ],
+  "Creator_ID": "673e162de2aaf87085794084",
+  "Category_ID": "6738945cfc8ac538e732d1a8"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3de"
+  },
+  "Artwork_name": "Digital Expressive Abstract",
+  "Unit_price": 10000000,
+  "Stock": 1,
+  "Artwork_description": "Tác phẩm nghệ thuật chân dung trừu tượng là bản lưu trữ bức tranh gốc của họa sĩ. Bức chân dung trừu tượng hiện đại quý giá này sẽ tạo ra phong cách trang nhã cho ngôi nhà, văn phòng hoặc bức tường phòng trưng bày của bạn! Nghệ thuật có thể in là một cách dễ dàng và giá cả phải chăng để cá nhân hóa khu vực của bạn!",
+  "Artwork_tag": [
+    "Trừu tượng",
+    "Kinh dị"
+  ],
+  "Artwork_image": "https://i.etsystatic.com/19072026/r/il/09a8a0/3073355134/il_1140xN.3073355134_bhtt.jpg",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "tac pham xin, dep va chat luong",
+    "tranh dep va xin",
+    "van chuyen tot, tranh nguyen ven, giong mo ta"
+  ],
+  "Creator_ID": "673e162de2aaf87085794084",
+  "Category_ID": "6738945cfc8ac538e732d1a9"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3df"
+  },
+  "Artwork_name": "Eldritch Sightings",
+  "Unit_price": 1200000,
+  "Stock": 2,
+  "Artwork_description": "Thử sức với tranh thể hiện nổi sợ với những sinh vật ngoài hành tinh và nỗi sợ vật khổng lồ của tôi, mong là mọi người sẽ thích nó. Tác phẩm mang phong cách huyền bí, cổ tích pha chút kinh dị. Đây là tranh tôi in sẵn, không nhận custom",
+  "Artwork_tag": [
+    "Kinh dị",
+    "Phong cảnh",
+    "Cổ tích",
+    "Huyền bí"
+  ],
+  "Artwork_image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6ff2ccfb-d302-4348-87bc-8b9568748e63/dc7uzex-75171038-6c31-46d6-9595-c09f423d3c9d.jpg/v1/fill/w_1024,h_641,q_75,strp/eldritch_sightings_by_jjcanvas_dc7uzex-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQxIiwicGF0aCI6IlwvZlwvNmZmMmNjZmItZDMwMi00MzQ4LTg3YmMtOGI5NTY4NzQ4ZTYzXC9kYzd1emV4LTc1MTcxMDM4LTZjMzEtNDZkNi05NTk1LWMwOWY0MjNkM2M5ZC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.qHjScDf740fFUni8gtSSrz7msWizVKfDbaVmqoir3_g",
+  "Artwork_size": [
+    "1500x938"
+  ],
+  "Review": [
+    "Hop gu toi"
+  ],
+  "Creator_ID": "673e162de2aaf87085794082",
+  "Category_ID": "6738945cfc8ac538e732d1a8"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3e0"
+  },
+  "Artwork_name": "The Magic Garden",
+  "Unit_price": 2100000,
+  "Stock": 3,
+  "Artwork_description": "Đây là một khu vườn tráng lệ, hoang sơ - những loài thực vật mọc ở đây không giống bất kỳ nơi nào khác với bề mặt phản chiếu của chúng, đung đưa sống động trong gió. Nơi này được cho là đã bị phù phép từ nhiều thế kỷ trước, nhưng những phép thuật đó đã bị thất truyền từ lâu. Tuy nhiên, một số giả thuyết cho rằng đây là một trường hợp độc nhất. Tôi tin bạn sẽ yêu câu chuyện này. Bạn có thể lựa chọn màu chủ đạo cho khu rừng và nhân vật trong tranh nhé",
+  "Artwork_tag": [
+    "Phong cảnh",
+    "Trừu tượng",
+    "Hoạt hình",
+    "Cổ tích",
+    "Thực vật"
+  ],
+  "Artwork_image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bdba91ee-8e62-43ae-aa6a-358e88f4d884/deo96nq-3d47c930-9a84-423e-ae82-f191e387ed22.jpg/v1/fit/w_828,h_468,q_70,strp/the_magic_garden_by_kristyglas_deo96nq-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMCIsInBhdGgiOiJcL2ZcL2JkYmE5MWVlLThlNjItNDNhZS1hYTZhLTM1OGU4OGY0ZDg4NFwvZGVvOTZucS0zZDQ3YzkzMC05YTg0LTQyM2UtYWU4Mi1mMTkxZTM4N2VkMjIuanBnIiwid2lkdGgiOiI8PTMzOTYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fFYe1nyjMUjNt83QiwKIFBGH00p5fp1qYwqNuGUzXz8",
+  "Artwork_size": [
+    "3396x1920"
+  ],
+  "Review": [
+    "Tôi đã đặt tác phẩm này, đẹp lắm quý dị ơi"
+  ],
+  "Creator_ID": "673e162de2aaf87085794082",
+  "Category_ID": "6738945cfc8ac538e732d1a9"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3e1"
+  },
+  "Artwork_name": "Flora",
+  "Unit_price": 1400000,
+  "Stock": 2,
+  "Artwork_description": "Đây là bức chân dung cô gái hoa - nàng tiên thực vật trong thế giới truyện tranh của tôi. Tôi nghĩ mọi người sẽ thích cô ấy. Hàng có sẵn, không chỉnh sửa theo yêu cầu nhé",
+  "Artwork_tag": [
+    "Thực vật",
+    "Hoạt hình",
+    "Thần tượng"
+  ],
+  "Artwork_image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bb39d633-c2e1-407d-a815-dfb3ccedb455/derqfjd-2c25cc94-b89d-4c9f-8f61-68ff84ab87ae.jpg/v1/fit/w_750,h_500,q_70,strp/flora_by_dimary_derqfjd-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTMzIiwicGF0aCI6IlwvZlwvYmIzOWQ2MzMtYzJlMS00MDdkLWE4MTUtZGZiM2NjZWRiNDU1XC9kZXJxZmpkLTJjMjVjYzk0LWI4OWQtNGM5Zi04ZjYxLTY4ZmY4NGFiODdhZS5qcGciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.KMkpZeLi8vA-JWpBmw76-uShySgYBY0umw2sQX1SMa4",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "omg Flora xinh lắm mn ơi, nên đặt",
+    "Tôi đã kịp săn 1 slot có Flora haha"
+  ],
+  "Creator_ID": "673e162de2aaf87085794085",
+  "Category_ID": "6738945cfc8ac538e732d1a8"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3e2"
+  },
+  "Artwork_name": "Eyes Color - Sagri Kinger ",
+  "Unit_price": 2000000,
+  "Stock": 4,
+  "Artwork_description": "Đôi mắt với chi tiết sống động và màu sắc rực rỡ. Mống mắt được tô điểm bởi sự pha trộn của các gam màu xanh lam, vàng, cam, tím và xanh lục, tạo nên hiệu ứng rực rỡ như một dải cầu vồng. Các nét cọ mạnh mẽ và táo bạo, với kết cấu dày và mảng màu được sắp xếp một cách tự do, mang lại cảm giác năng động và cảm xúc mãnh liệt. Lông mi đen nổi bật, tương phản với nền sáng và các sắc thái sống động, càng làm tăng thêm sự cuốn hút cho ánh nhìn. Phong cách của bức tranh gợi nhớ đến nghệ thuật biểu hiện hiện đại, nơi mà màu sắc và kết cấu đóng vai trò chủ đạo trong việc truyền tải cảm xúc.",
+  "Artwork_tag": [
+    "Trừu tượng",
+    "Huyền bí"
+  ],
+  "Artwork_image": "https://www.pictureframesexpress.co.uk/blog/wp-content/uploads/2020/05/7-Tips-to-Finding-Art-Inspiration-Header-1024x649.jpg",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "San pham dep, chat luong tot",
+    "tranh dep"
+  ],
+  "Creator_ID": "673e162de2aaf87085794086",
+  "Category_ID": "6738945cfc8ac538e732d1a9"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3e3"
+  },
+  "Artwork_name": "Elegant Violinist  - Kuldeep Singh ",
+  "Unit_price": 2800000,
+  "Stock": 2,
+  "Artwork_description": "Bức tranh xoay quanh âm nhạc và nghệ thuật, tập trung vào vẻ thanh lịch của người phụ nữ cầm cây vĩ cầm. Chân dung của nghệ sĩ vĩ cầm gợi ý mối liên hệ mật thiết giữa hình tượng và nhạc cụ của cô ấy, tượng trưng cho sự sáng tạo và biểu cảm.",
+  "Artwork_tag": [
+    "Trừu tượng",
+    "Cổ đại",
+    "Thần tượng"
+  ],
+  "Artwork_image": "https://cdn11.bigcommerce.com/s-x49po/images/stencil/1500x1500/products/71333/258689/1624645575009_1954E262-4B91-42DA-B217-90A36CE7BF54__83009.1687166595.jpg?c=2",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "San pham dep, chat luong tot",
+    "tranh dep"
+  ],
+  "Creator_ID": "673e162de2aaf87085794083",
+  "Category_ID": "6738945cfc8ac538e732d1a8"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3e4"
+  },
+  "Artwork_name": "Toward The Sun Light - Leonid Afremov ",
+  "Unit_price": 3000000,
+  "Stock": 3,
+  "Artwork_description": " Hình ảnh người vũ công nổi bật ở trung tâm với những nét vẽ chuyển động mượt mà và màu sắc ấm áp. Nền được bao phủ bởi những chấm màu sặc sỡ, từ đỏ, cam, vàng đến xanh lam và trắng, tạo cảm giác như những ánh sáng rực rỡ xoay quanh, tăng thêm phần sống động và huyền ảo. Tác phẩm gợi lên sự hòa quyện giữa cảm xúc mạnh mẽ và năng lượng nghệ thuật, đưa người xem vào một không gian đầy mê hoặc và cảm hứng.",
+  "Artwork_tag": [
+    "Trừu tượng",
+    "Cổ đại",
+    "Thần tượng"
+  ],
+  "Artwork_image": "https://i.pinimg.com/736x/ae/ee/13/aeee13787d7e0dd64e9c0c9a58c225c7.jpg",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "San pham dep, chat luong tot",
+    "tranh dep"
+  ],
+  "Creator_ID": "673e162de2aaf87085794083",
+  "Category_ID": "6738945cfc8ac538e732d1a9"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3e5"
+  },
+  "Artwork_name": "Toward The Sun Light - Leonid Afremov ",
+  "Unit_price": 2500000,
+  "Stock": 1,
+  "Artwork_description": " Tác phẩm ghi lại một khoảnh khắc thoáng qua, một luồng ánh sáng hoặc bản chất của một cảnh bằng những nét vẽ nhanh và biểu cảm. Đó là bản chất của trường phái Ấn tượng! Hãy nghĩ đến những bông hoa súng thơ mộng của Monet hay khung cảnh khu vườn rực rỡ của Renoir. Những nghệ sĩ này tìm cách truyền tải cảm giác của một khung cảnh hơn là những chi tiết chính xác của nó.",
+  "Artwork_tag": [
+    "Thực vật",
+    "Phong cảnh"
+  ],
+  "Artwork_image": "https://bluethumb.com.au/blog/wp-content/uploads/2023/09/thumbnail-1400-9999-fangmin-wu-spring-in-purple-iv-framed-duplicate-bluethumb-bc85-e1695684921933-1024x851.jpg",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "San pham dep, chat luong tot",
+    "tranh dep"
+  ],
+  "Creator_ID": "673e162de2aaf87085794084",
+  "Category_ID": "6738945cfc8ac538e732d1a8"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3e6"
+  },
+  "Artwork_name": "Miro in the dark - Danel Afremov",
+  "Unit_price": 4000000,
+  "Stock": 1,
+  "Artwork_description": " Bức tranh này mang phong cách ấn tượng với bảng màu rực rỡ và đường nét táo bạo, khắc họa một cảnh đêm thơ mộng trong công viên. Các ngọn đèn đường sáng lên, tỏa ánh sáng vàng ấm áp, tương phản với sắc cam, đỏ, xanh lá và xanh lam trong nền. Những hàng cây cao mảnh mai vươn lên trời, tạo ra một cảm giác sâu thẳm và yên bình.",
+  "Artwork_tag": [
+    "Thực vật",
+    "Phong cảnh",
+    "Trừu tượng"
+  ],
+  "Artwork_image": "https://th.bing.com/th/id/R.685b46217c144d8c5cad28b8b929819d?rik=RYNmUGG1ZM%2fl4Q&pid=ImgRaw&r=0",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "San pham dep, chat luong tot",
+    "tranh dep"
+  ],
+  "Creator_ID": "673e162de2aaf87085794084",
+  "Category_ID": "6738945cfc8ac538e732d1a9"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3e7"
+  },
+  "Artwork_name": "Ocean -  Jose Art Gallery",
+  "Unit_price": 5000000,
+  "Stock": 4,
+  "Artwork_description": " Việc sử dụng hình ảnh sóng nước để che phủ khuôn mặt có thể mang nhiều ý nghĩa khác nhau. Có thể tác giả muốn thể hiện sự giằng xé nội tâm, những cảm xúc mãnh liệt đang trỗi dậy bên trong con người. Hoặc cũng có thể đây là một cách để nói về sự bí ẩn, khó nắm bắt của tâm hồn con người.",
+  "Artwork_tag": [
+    "Phong cảnh",
+    "Trừu tượng"
+  ],
+  "Artwork_image": "https://i.pinimg.com/564x/19/75/d6/1975d6e559da17936176eb6168161089.jpg",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "San pham dep, chat luong tot",
+    "tranh dep"
+  ],
+  "Creator_ID": "673e162de2aaf87085794082",
+  "Category_ID": "6738945cfc8ac538e732d1a8"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3e8"
+  },
+  "Artwork_name": "Art Mickey Mouse - Cross Magri",
+  "Unit_price": 800000,
+  "Stock": 2,
+  "Artwork_description": "Bức tranh này là một tác phẩm nghệ thuật đương đại, sử dụng các kỹ thuật vẽ graffiti và pop art để tạo ra một hình ảnh Mickey Mouse đầy màu sắc và sống động. Mickey được vẽ với một phong cách vui tươi và trẻ trung, với đôi mắt to tròn và nụ cười tươi tắn.",
+  "Artwork_tag": [
+    "Hoạt hình",
+    "Dễ thương"
+  ],
+  "Artwork_image": "https://www.artalistic.com/en/media/catalog/product/cache/2/thumbnail/540x/040ec09b1e35df139433887a97daa66f/p/e/pe_pro.0521_114.jpg",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "San pham dep, chat luong tot",
+    "tranh dep"
+  ],
+  "Creator_ID": "673e162de2aaf87085794085",
+  "Category_ID": "6738945cfc8ac538e732d1a9"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3e9"
+  },
+  "Artwork_name": "Vùng cổ tích - Nguyễn Bảo Châu",
+  "Unit_price": 1000000,
+  "Stock": 1,
+  "Artwork_description": "Bức tranh này là một tác phẩm nghệ thuật đẹp và ý nghĩa. Nó không chỉ đơn thuần là một bức tranh phong cảnh mà còn là một lời ca ngợi vẻ đẹp của làng quê Việt Nam. Bức tranh này chắc chắn sẽ khiến người xem cảm thấy yêu mến và tự hào về quê hương mình.",
+  "Artwork_tag": [
+    "Cổ tích",
+    "Phong cảnh",
+    "Trừu tượng"
+  ],
+  "Artwork_image": "https://nguyenbaochauartist.com/wp-content/uploads/2023/08/z4596669928996_5c584b0074ae857b7146e3387edff642.jpg",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "San pham dep, chat luong tot",
+    "tranh dep"
+  ],
+  "Creator_ID": "673e162de2aaf87085794085",
+  "Category_ID": "6738945cfc8ac538e732d1a8"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3ea"
+  },
+  "Artwork_name": "HELLO in black - Mark Carson English",
+  "Unit_price": 5500000,
+  "Stock": 3,
+  "Artwork_description": "HELLO là một hộp sọ trừu tượng lớn, đầy màu sắc trên nền đen trên tấm canvas 48 inch x 48 inch được vẽ bằng acrylic.",
+  "Artwork_tag": [
+    "Kinh dị",
+    "Trừu tượng"
+  ],
+  "Artwork_image": "https://solocontemporaryfineart.com/wp-content/uploads/2021/12/category-pop-art-1024x1163.jpg",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "San pham dep, chat luong tot",
+    "tranh dep"
+  ],
+  "Creator_ID": "673e162de2aaf87085794083",
+  "Category_ID": "6738945cfc8ac538e732d1a9"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3eb"
+  },
+  "Artwork_name": "Enjoy the Beauty of Ancient Art - Mr Sumit",
+  "Unit_price": 600000,
+  "Stock": 2,
+  "Artwork_description": "Bộ sưu tập nghệ thuật cổ xưa này là một cách tuyệt vời để thưởng thức vẻ đẹp của nghệ thuật cổ xưa. Nó bao gồm nhiều tác phẩm khác nhau từ các nền văn hóa và khoảng thời gian khác nhau, vì vậy bạn chắc chắn sẽ tìm thấy thứ mình yêu thích",
+  "Artwork_tag": [
+    "Phong cảnh",
+    "Trừu tượng",
+    "Cổ đại"
+  ],
+  "Artwork_image": "https://i.pinimg.com/564x/e8/82/e5/e882e53f98d1dfb93277b920e5427139.jpg",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "San pham dep, chat luong tot",
+    "tranh dep"
+  ],
+  "Creator_ID": "673e162de2aaf87085794082",
+  "Category_ID": "6738945cfc8ac538e732d1a8"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3ec"
+  },
+  "Artwork_name": "A Cat on Green Grass - Legany and Sync",
+  "Unit_price": 4900000,
+  "Stock": 2,
+  "Artwork_description": "Giữa cánh đồng hoa cúc dưới bầu trời xanh trong, chú mèo nhỏ với đôi mắt xanh long lanh như ánh sáng dịu dàng giữa cuộc sống vội vã. Một khoảnh khắc bình yên và đẹp đến nao lòng.",
+  "Artwork_tag": [
+    "Cổ tích",
+    "Dễ thương"
+  ],
+  "Artwork_image": "https://i.pinimg.com/736x/43/50/8a/43508a76769e757f35dd23fbb5535f25.jpg",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "Tac pham de thuong, xung dang de mua",
+    "rat hai long"
+  ],
+  "Creator_ID": "673e162de2aaf87085794082",
+  "Category_ID": "6738945cfc8ac538e732d1a9"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3ed"
+  },
+  "Artwork_name": "Namjoon in the Forest - Hizan and Thomash",
+  "Unit_price": 5500000,
+  "Stock": 1,
+  "Artwork_description": "Giữa khu vườn hoa dại, người đàn ông với ánh mắt trầm lặng và nét cọ tinh tế tạo nên một khung cảnh đẹp yên bình, như lời thì thầm của thiên nhiên.",
+  "Artwork_tag": [
+    "Thần tượng",
+    "Dễ thương"
+  ],
+  "Artwork_image": "https://i.pinimg.com/736x/0a/b8/bf/0ab8bf7f670d891b559ada74c24a5ba6.jpg",
+  "Artwork_size": [
+    "250x160"
+  ],
+  "Review": [
+    "Ve anh Namjoon rat dep, 10 diem",
+    "qua xuat sac, nhin ngam moi ngay"
+  ],
+  "Creator_ID": "673e162de2aaf87085794086",
+  "Category_ID": "6738945cfc8ac538e732d1a8"
+},
+{
+  "_id": {
+    "$oid": "673aac900350e25cd45dc3ee"
+  },
+  "Artwork_name": "A little Peace in the Storm - Alex Sando",
+  "Unit_price": 2600000,
+  "Stock": 5,
+  "Artwork_description": "Bầu trời rực rỡ với những tầng mây cuồn cuộn như vũ điệu của ánh sáng và màu sắc, phủ xuống cánh đồng hoa dại đầy sắc vàng, đỏ, tím.",
+  "Artwork_tag": [
+    "Phong cảnh",
+    "Thực vật"
+  ],
+  "Artwork_image": "https://i.pinimg.com/474x/19/3e/2f/193e2fca938a21af3c4bd9788f636a10.jpg",
+  "Artwork_size": [
+    "250x160",
+    "170x120",
+    "90x50"
+  ],
+  "Review": [
+    "tam duoc",
+    "treo len tuong nha rat dep"
+  ],
+  "Creator_ID": "673e162de2aaf87085794082",
+  "Category_ID": "6738945cfc8ac538e732d1a9"
+},
+{
+  "_id": {
+    "$oid": "673b181eebc80a6dc4808a09"
+  },
+  "Artwork_name": "Thiên thần",
+  "Unit_price": 1765000,
+  "Stock": 5,
+  "Artwork_description": "Bức tranh này mang một phong cách nghệ thuật siêu thực và huyền bí. Trong đó, hình ảnh chính là một nhân vật nữ với đôi cánh đen khổng lồ, mang dáng vẻ vừa quyền uy vừa u ám. Cô ấy đứng thẳng, ánh sáng yếu ớt chiếu lên cơ thể tạo nên vẻ bí ẩn. Trang phục bó sát đậm chất cổ điển, như hòa quyện vào bóng tối bao quanh.",
+  "Artwork_tag": [
+    "Kinh dị",
+    "Huyền bí",
+    "Cổ tích"
+  ],
+  "Artwork_image": "https://i.pinimg.com/736x/86/6c/ef/866cefbb860cb1699fc01537e4a72425.jpg",
+  "Artwork_size": [
+    "250x160",
+    "170x120"
+  ],
+  "Review": [
+    "Tôi cảm thấy rất cuốn hút, rất phù hợp với sở thích của tôi.",
+    "Gam màu này trùng hợp lại cùng gam với căn phòng của mình, mình cũng thích cái màu này nữa."
+  ],
+  "Creator_ID": {
+    "$oid": "673e162de2aaf87085794083"
+  },
+  "Category_ID": {
+    "$oid": "6738945cfc8ac538e732d1a8"
+  }
+}]

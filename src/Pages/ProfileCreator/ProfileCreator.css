@@ -1,0 +1,185 @@
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .cover-photo {
+    height: 180px;
+    overflow: hidden;
+  }
+  
+  .cover-photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .my-main-content {
+    padding: 2rem;
+    margin-top: -60px;
+    margin-left: 0;
+    background: url('../../Components/Assets/Data/bgProfileSky.jpg') no-repeat center center;
+    background-size: cover;
+  }
+  
+  .profile-header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    margin-top: -90px;
+  }
+  
+  .profile-pic {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 4px solid white;
+    object-fit: cover;
+  }
+  
+  .profile-info {
+    text-align: center;
+  }
+  
+  .profile-info .name {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .profile-info .username {
+    font-size: 16px;
+    color: #0d47a1;
+    margin: 0;
+    font-weight: bold;
+  }
+  
+  .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  .social-links i {
+    font-size: 24px;
+    color: #3b5998;
+    transition: color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .social-links i.fa-instagram {
+    color: #ac2bac;
+  }
+  
+  .social-links i.fa-youtube {
+    color: #ed302f;
+  }
+  
+  .social-links i:hover {
+    transform: scale(1.1);
+    color: #0d47a1;
+  }
+  
+  .tabs {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    margin: 2rem 0;
+  }
+  
+  .tabs button {
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    color: #0d47a1;
+    font-weight: bold;
+    transition: color 0.3s ease;
+    margin: 0 4rem; /* Tăng khoảng cách giữa các nút */
+}
+
+.tabs button:first-child {
+  color: #ffffff; /* Đặt màu trắng cho nút "Thông tin" */
+}
+
+  
+  .tabs button:hover {
+    color: #ffffff;
+  }
+
+  .tabs button:active {
+    color: #ffffff;
+  }
+  
+  .line {
+    width: 100%;
+    height: 2px;
+    background-color: #0d47a1;
+    margin-bottom: 2rem;
+  }
+
+  .info {
+    display: flex;
+    flex-direction: column; /* Xếp chồng các thông tin */
+    align-items: center; /* Căn giữa toàn bộ phần thông tin */
+    margin-top: 2rem; /* Khoảng cách phía trên thông tin */
+  }
+  
+  .info-section {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.336);
+    padding: 1rem;
+    border-radius: 8px;
+  }
+  
+  .info-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    border: 1px solid #0d47a1;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    transition: box-shadow 0.2s ease-in-out;
+  }
+  
+  .info-box:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .info label {
+    font-weight: bold;
+    color: #0d47a1; /* Màu xanh giống mẫu */
+    text-transform: uppercase; /* Chữ in hoa */
+    margin-bottom: 0.5rem; /* Khoảng cách giữa nhãn và nội dung */
+    font-size: 1rem; /* Kích thước chữ nhãn */
+  }
+  
+  .info-box label {
+    font-weight: bold;
+    color: #0d47a1;
+    text-transform: uppercase;
+  }
+  
+
+
+  .info-box i {
+    cursor: pointer;
+    color: #0d47a1;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .info-box i:hover {
+    transform: scale(1.2);
+  }
+  
+  
+  

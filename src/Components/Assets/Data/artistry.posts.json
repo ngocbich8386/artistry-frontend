@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "673e4d24764e4d03acf47d06"
+  },
+  "Post_title": "Thiên thần sa ngã",
+  "Post_content": "Vẽ bức này lúc chạng vạng sáng. Mọi người ghé kênh của tôi để đặt mua nó nếu thích nhé",
+  "Post_tag": [
+    "Kinh dị",
+    "Huyền bí",
+    "Cổ tích"
+  ],
+  "Post_image": [
+    "https://i.pinimg.com/736x/86/6c/ef/866cefbb860cb1699fc01537e4a72425.jpg"
+  ],
+  "User_ID": {
+    "$oid": "6738b57ffc8ac538e732d1cf"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T20:57:08.284Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T20:57:08.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e4d4e764e4d03acf47d09"
+  },
+  "Post_title": "Tôi vẽ Eldritch Sightings",
+  "Post_content": "Thử sức với tranh thể hiện nổi sợ với những sinh vật ngoài hành tinh và nỗi sợ vật khổng lồ của tôi, mong là mọi người sẽ thích nó. Tác phẩm mang phong cách huyền bí, cổ tích pha chút kinh dị. Mọi người đánh giá nó nhé <3",
+  "Post_tag": [
+    "Kinh dị",
+    "Phong cảnh",
+    "Cổ tích",
+    "Huyền bí"
+  ],
+  "Post_image": [
+    "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6ff2ccfb-d302-4348-87bc-8b9568748e63/dc7uzex-75171038-6c31-46d6-9595-c09f423d3c9d.jpg/v1/fill/w_1024,h_641,q_75,strp/eldritch_sightings_by_jjcanvas_dc7uzex-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQxIiwicGF0aCI6IlwvZlwvNmZmMmNjZmItZDMwMi00MzQ4LTg3YmMtOGI5NTY4NzQ4ZTYzXC9kYzd1emV4LTc1MTcxMDM4LTZjMzEtNDZkNi05NTk1LWMwOWY0MjNkM2M5ZC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.qHjScDf740fFUni8gtSSrz7msWizVKfDbaVmqoir3_g"
+  ],
+  "User_ID": {
+    "$oid": "6738ba8afc8ac538e732d1dd"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T20:57:50.347Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T20:57:50.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e4d64764e4d03acf47d0b"
+  },
+  "Post_title": "Thảo luận về bức tranh này",
+  "Post_content": "Xin ý kiến của mọi người về tác phẩm The Magic Garden của tôi. Mọi người thấy phần custom đã ổn chưa?",
+  "Post_tag": [
+    "Phong cảnh",
+    "Trừu tượng",
+    "Hoạt hình",
+    "Cổ tích",
+    "Thực vật"
+  ],
+  "Post_image": [
+    "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bdba91ee-8e62-43ae-aa6a-358e88f4d884/deo96nq-3d47c930-9a84-423e-ae82-f191e387ed22.jpg/v1/fit/w_828,h_468,q_70,strp/the_magic_garden_by_kristyglas_deo96nq-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMCIsInBhdGgiOiJcL2ZcL2JkYmE5MWVlLThlNjItNDNhZS1hYTZhLTM1OGU4OGY0ZDg4NFwvZGVvOTZucS0zZDQ3YzkzMC05YTg0LTQyM2UtYWU4Mi1mMTkxZTM4N2VkMjIuanBnIiwid2lkdGgiOiI8PTMzOTYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fFYe1nyjMUjNt83QiwKIFBGH00p5fp1qYwqNuGUzXz8"
+  ],
+  "User_ID": {
+    "$oid": "6738ba8afc8ac538e732d1dc"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T20:58:12.227Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T20:58:12.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673e4d72764e4d03acf47d0d"
+  },
+  "Post_title": "Đôi mắt có gì",
+  "Post_content": "Đôi mắt với chi tiết sống động và màu sắc rực rỡ. Mống mắt được tô điểm bởi sự pha trộn của các gam màu xanh lam, vàng, cam, tím và xanh lục, tạo nên hiệu ứng rực rỡ như một dải cầu vồng. Các nét cọ mạnh mẽ và táo bạo, với kết cấu dày và mảng màu được sắp xếp một cách tự do, mang lại cảm giác năng động và cảm xúc mãnh liệt. Tôi thích vẽ mắt vô cùng",
+  "Post_tag": [
+    "Trừu tượng",
+    "Huyền bí"
+  ],
+  "Post_image": [
+    "https://www.pictureframesexpress.co.uk/blog/wp-content/uploads/2020/05/7-Tips-to-Finding-Art-Inspiration-Header-1024x649.jpg"
+  ],
+  "User_ID": {
+    "$oid": "6738ba8afc8ac538e732d1dc"
+  },
+  "createdAt": {
+    "$date": "2024-11-20T20:58:26.480Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T20:58:26.480Z"
+  },
+  "__v": 0
+}]
